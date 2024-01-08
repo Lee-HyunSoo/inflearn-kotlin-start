@@ -1,0 +1,5 @@
+package usenull
+
+fun main() {
+
+}
